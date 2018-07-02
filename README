@@ -1,1 +1,3 @@
-In this project im pulling from the NASA API again but this time when you chose a date it will show the picture of the day from what NASA took
+In this project I was learing how to use APIs and the first API I used was the NASA API.
+I had to pull from the API a picture of the day, so when I look up a past date I should be able
+to get a picture that NASA took for that day
