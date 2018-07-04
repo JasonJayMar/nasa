@@ -1,3 +1,11 @@
+## NASA API
+
 In this project I was learing how to use APIs and the first API I used was the NASA API.
 I had to pull from the API a picture of the day, so when I look up a past date I should be able
 to get a picture that NASA took for that day
+
+## Run
+
+1. install node
+
+2. use node server.js
